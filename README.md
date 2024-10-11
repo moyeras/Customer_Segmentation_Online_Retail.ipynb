@@ -42,10 +42,6 @@ Here are some practical steps we can take moving forward:
 2. Open the Jupyter notebook.
 3. Run the cells to see the analysis.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - [Kaggle](https://www.kaggle.com/) for providing the dataset.
-- Any resources or inspirations you used during your project.
 
